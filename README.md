@@ -22,5 +22,6 @@ Or you can just download the latest .deb package and install it manually from he
 * [`raspotify-latest_amd64.deb`](https://dtcooper.github.io/raspotify/raspotify-latest_amd64.deb)
 
 ### [Raspotify does NOT support ARMv6 Pi's (Pi v1 and Pi Zero v1.x)](https://github.com/dtcooper/raspotify/wiki/Raspotify-on-Pi-v1's-and-Pi-Zero-v1.x)
+<img width="1440" alt="Screenshot 2023-04-30 at 10 12 03 AM" src="https://user-images.githubusercontent.com/119916323/235363954-03d72b7d-2d4c-42b3-9660-4b835af9b0ff.png">
 
 
