@@ -26,5 +26,6 @@ Or you can just download the latest .deb package and install it manually from he
 ### librespot -n "Crypto Kali pi" -b 160
 ![librespot](https://user-images.githubusercontent.com/119916323/235577850-24302437-5a1f-4435-b244-7badac4bf374.jpg)
 ![SPOTIPI](https://user-images.githubusercontent.com/119916323/235578346-c92b1d7c-ca15-4440-80a8-ca65c951a1ff.jpg)
+![Spotify Open Source](https://user-images.githubusercontent.com/119916323/235578449-c4bb2067-21bc-4539-ba8e-3c6f138c07c6.jpg)
 
 
