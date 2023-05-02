@@ -24,6 +24,6 @@ Or you can just download the latest .deb package and install it manually from he
 ### sudo apt install cargo
 ### cargo install librespot
 ### librespot -n "Crypto Kali pi" -b 160
-
+![librespot](https://user-images.githubusercontent.com/119916323/235577850-24302437-5a1f-4435-b244-7badac4bf374.jpg)
 
 
